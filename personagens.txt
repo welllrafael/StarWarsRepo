@@ -5,3 +5,6 @@ Han Solo
 ChewBacca
 Leia Organa
 Jabba the Hutt
+
+Rey
+Finn
