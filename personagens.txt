@@ -3,3 +3,4 @@ Darth Vader
 Mestre Yoda
 Han Solo
 ChewBacca
+Leia Organa
