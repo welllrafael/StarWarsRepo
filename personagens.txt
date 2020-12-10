@@ -2,4 +2,6 @@ Luke Skywalker
 Darth Vader
 Mestre Yoda
 Han Solo
+ChewBacca
+Leia Organa
 Jabba the Hutt
